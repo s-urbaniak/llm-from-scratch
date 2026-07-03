@@ -1,0 +1,4 @@
+[submodule "wiki"]
+	path = wiki
+	url = git@github.com:s-urbaniak/llm-from-scratch.wiki.git
+	branch = main
